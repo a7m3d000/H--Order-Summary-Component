@@ -3,7 +3,7 @@
    #### :bulb: Project Type: **Challenge** from **Front End Mentor** Website 
    #### :bulb: Project Level: **Heigh** -> **[ H ]**
    
-   #### :bulb: Challenge: [**Order Summary Component**](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+   #### :bulb: Challenge URL: [**Order Summary Component**](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
    
 ---
 
